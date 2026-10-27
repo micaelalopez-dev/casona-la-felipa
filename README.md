@@ -17,4 +17,4 @@ casona-la-felipa/
     └── visitanos.html
 ```
 
-Autora: Micaela López
+Autora: Micaela Estefanía Lopez
